@@ -66,7 +66,7 @@ input:hover,input:focus,select:hover,select:focus{
             <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
                 <div class="mb-2">
                     <label for="exampleInputEmail1" class="form-label mb-0">Request Date:</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <input type="date" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 </div>
             </div>
         </div>
